@@ -1,0 +1,22 @@
+{
+    "name": "BotRx-SparkFun-2019-0112-1940-LA-14-TYJ-2RESENDMAX-GroupChRx-ClearRxStrBeforeIcon_All-Pwr40_80-Turn10-1pt0_2pt0_4pt0-GroupCh25_3Sec-Sonar_P0P1-Ir_P2-NoCompass-SerialDebug-CustomCh25",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "motobit": "github:sparkfun/pxt-moto-bit#5e903a3cd0a84a9e0a5df3671c630e29af1e3bbc",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "targetVersions": {
+        "branch": "v1.1.58",
+        "tag": "v1.1.58",
+        "commits": "https://github.com/Microsoft/pxt-microbit/commits/9327760785d89955ad577ceb62785d7284f9c101",
+        "target": "1.1.58",
+        "pxt": "4.1.7"
+    }
+}
